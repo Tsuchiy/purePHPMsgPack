@@ -1,8 +1,10 @@
 # Msgpack serializer by only PHP
 
-* serialize
+* _serialize_
+
 MsgPack::serialize(mixed $mixed);
 
-* unserialize
+* _unserialize_
+
 MsgPack::unserialize(string $binary);
 
