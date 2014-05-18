@@ -1,11 +1,15 @@
 <?php
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/** 
+ * MsgPack serializer/unserializer (only php)
+ * 
+ * @category   Msgpack
+ * @package    PackageName
+ * @author     Nobuo Tsuchiya <develop@m.tsuchi99.net>
+ * @version    Release: @package_version@
+ * @link       https://github.com/Tsuchiy/purePHPMsgPack
+ * @since      Class available since Release 1.0.0
  */
-
 class MsgPack 
 {
     /**
